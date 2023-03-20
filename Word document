@@ -1,0 +1,7 @@
+This feature provides the following capabilities and gives complete control to the customers for building reports:
+1. Cloud based reports – You do not need to setup a reporting server, database, or any other infrastructure since everything is completely managed on the cloud. All you need is a storage account and Power BI subscription. The Power BI free tier supports reports for backup reporting data under 1 GB per user.
+2. Cross subscription and cross vault reports – You can view data across subscriptions and vaults to get a big picture view, track organization SLAs, meet compliance requirements across departments, etc.
+3. Open data model –  You can now create your own reports and customize existing reports since the Azure Backup management data model is publicly available.
+4. Data visualization –  You can take advantage of Power BI’s data visualization capabilities to perform business analytics and share rich data insights.
+5. Access control – Power BI also provides the capability to create organizational content packs, which can be used for sharing selected reports inside the organization and restricting access to reports based on their requirements.
+Export to Event Hub and Log Analytics – Besides the ability to export the data to storage account and connect to it using Azure Backup content pack in Power BI, you can also export reporting data to Event Hub and Log Analytics to leverage it in OMS and other tools for further analysis.
